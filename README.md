@@ -1,3 +1,3 @@
 # aulagithub
 repositório de teste para aulas de github
-testando conflito
+alteração para teste de commit
